@@ -1,0 +1,5 @@
+# macOS hidden file
+.DS_Store
+
+# Server Logs
+logs/*
