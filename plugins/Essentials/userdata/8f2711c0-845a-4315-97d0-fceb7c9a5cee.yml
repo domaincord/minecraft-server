@@ -1,5 +1,13 @@
 lastAccountName: Crockr
 timestamps:
-  login: 1568075962020
+  login: 1568079374326
+  logout: 1568080724402
 ipAddress: 192.168.1.13
 afk: false
+logoutlocation:
+  world: world
+  x: 232.46597941597315
+  y: 80.0
+  z: 34.1557580481927
+  yaw: 4.8168454
+  pitch: 26.249987
