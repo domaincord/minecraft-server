@@ -3,3 +3,6 @@
 
 # Server Logs
 logs/*
+
+# Private configs
+plugins/DiscordSRV/config.yml
